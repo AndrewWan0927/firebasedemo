@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359335691707",
+    "project_id": "myseconddemo-b2a48",
+    "storage_bucket": "myseconddemo-b2a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359335691707:android:327bacebfae4309f23709e",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359335691707-esrj80gl0m8dulv6qmvh64nc3are9792.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvpMYQrxE75Bscce3lOmtFH3qrc_24A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359335691707-esrj80gl0m8dulv6qmvh64nc3are9792.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
